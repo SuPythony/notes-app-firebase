@@ -4,6 +4,7 @@ import "firebase/firestore";
 import App from "./App";
 import React from "react";
 import ReactDOM from "react-dom";
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 const firebaseConfig = {
   apiKey: "AIzaSyCcPh2TlhShi2S-fMQHgifo5qWmNLAWzoY",
